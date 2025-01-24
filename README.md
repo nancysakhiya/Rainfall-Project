@@ -2,7 +2,7 @@
 
 This project uses Python to analyze rainfall data. The primary goal is exploring, cleaning, and analyzing rainfall data to uncover trends and insights.
 
-This project involves Python libraries such as Python 3.x, Jupyter Notebook, Pandas, numpy, matplotlib, and Seaborn. 
+This project involves Python libraries such as Python 3.13.1, Jupyter Notebook, Pandas, numpy, matplotlib, and Seaborn. 
 
 This analysis aims to uncover long-term trends, seasonal patterns, and anomalies in India’s rainfall data. We will examine historical rainfall trends, detect years with extreme or deficient rainfall, explore relationships between seasonal and annual rainfall, and forecast future rainfall using time series models. For this analysis, we rely on a dataset containing monthly, seasonal, and yearly rainfall measurements spanning over a century. I found an ideal dataset for this task, which includes monthly rainfall values, seasonal aggregations (e.g., monsoon rainfall), and annual totals, all essential for understanding variability, detecting anomalies, and predicting future trends. I have used the data set from the link given here: https://statso.io/rainfall-trends-in-india-case-study/
 
