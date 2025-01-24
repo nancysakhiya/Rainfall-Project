@@ -1,4 +1,4 @@
-/Rainfall analysis project
+ # Rainfall analysis project
 
 This project uses Python to analyze rainfall data. The primary goal is exploring, cleaning, and analyzing rainfall data to uncover trends and insights.
 
