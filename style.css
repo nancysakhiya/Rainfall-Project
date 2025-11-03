@@ -1,0 +1,133 @@
+/* Resetting some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fc;
+    color: #333;
+}
+
+/* Container to center content */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Header section */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Overview section */
+.overview {
+    background-color: #fff;
+    padding: 30px 0;
+    margin-top: 20px;
+}
+
+.overview h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.overview p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Data section */
+.data {
+    background-color: #fff;
+    padding: 30px 0;
+    margin-top: 20px;
+}
+
+.data h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.data p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Button styling */
+.button-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.download-btn {
+    background-color: #008CBA;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+    background-color: #005f73;
+}
+
+/* Chart Section */
+.charts {
+    background-color: #fff;
+    padding: 30px 0;
+    margin-top: 20px;
+}
+
+.charts h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.chart-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chart-box {
+    width: 48%;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.chart-box h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+/* Footer section */
+footer {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer p {
+    font-size: 14px;
+}
